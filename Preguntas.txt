@@ -1,0 +1,9 @@
+¿El resultado fue mejor o peor?
+Con las nuevas caracteristicas, pude notar ligeros cambios con el score de los test, pero no variaron mucho a lo mucho
+0.5% a 1% mas en el score con lo que tenia antes y eso que se tenian valores correlativos de  0.151344, 0.114895 y -0.255880 lo cual eran resultados un tanto mejor ya que eran porcetanje que se agregaba al score, pero si limitabamos los datos es decir que los topes donde estan los desafios como los ingresos si los limitaba a 10 por ejemplo me reducia la presicion hasta un 5%, igual con los años de la casa lo cual considero que es peor para el score.
+
+¿Por qué crees que es así?
+Creo que son asi en lo de las nuevas caracteristicas porque no son lo suficientemente relevantas como para determinar de 
+una mejor forma o manera el precio de la casa. Por parte de la limitacion de lo datos diria que hay partes que se ocuparia 
+un mejor analsis ya que eso son datos muy sensibles a la variacion y requiere un ajuste mas cuidadoso. Tambien, algo
+que llegue a pensar es que las nuevas caracteristicas con las viejas no se esten aprovechando correctamente ya que el mas alto score que pude obtener fue de 0.69.
